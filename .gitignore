@@ -1,0 +1,5 @@
+src/savedNotes/*
+dist
+build
+main.spec
+out
