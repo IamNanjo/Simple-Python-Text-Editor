@@ -1,13 +1,16 @@
-# TTC2030 Harjoitustyö
+# Python text editor
 
-GUI desktop app made with Python. Made for creating, saving or editing notes\
+GUI desktop app made with Python. Made for creating, saving or editing text files\
 Created using the [PySimpleGui](https://pypi.org/project/PySimpleGUI/) library
 
-The program looks for saved notes from ./savedNotes/
+Default save location for files is ./savedFiles but you can change it from the GUI.
 
-Packaged executables are available in Deployments -> Releases
+Packaged executables for Windows and Linux are available in Releases
 
 ## Screenshots from the program  
+###
+![Choose directory](./screenshots/Choose_directory.png)
+
 ### Main window
 ![Main window](./screenshots/Main_window.png)
 

@@ -1,5 +1,3 @@
-src/savedNotes/*
-dist
-build
-main.spec
+src/savedFiles
+src/config.json
 out
